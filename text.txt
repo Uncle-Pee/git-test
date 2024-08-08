@@ -1,0 +1,8 @@
+Working directory -> staging area -> local repository -> remote repo
+test project      -> git add      -> git commit       -> git push
+
+
+changes control
+version control
+
+When you make a commit, it creates a unique version of the code
